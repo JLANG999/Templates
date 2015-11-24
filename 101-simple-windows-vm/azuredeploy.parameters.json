@@ -3,17 +3,21 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "jlstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "Passw0rd!"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "JL99862"
     },
-    "dnsNameForPublicIP": {
-      "value": "myDnsName"
+    "location":{
+      "value": "West US"
+    },
+    "sizeOfDiskInGB":{
+      "value":"20"
     }
   }
 }
+
 
